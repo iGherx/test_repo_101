@@ -3,3 +3,5 @@
 
 
 <?php echo "Wazzap nigga this is THUG LIFE!!!" ?>
+
+<h1>Test Merge</h1>
